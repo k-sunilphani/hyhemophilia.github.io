@@ -12,17 +12,17 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <div align="center">
-     <p>
+    <div align="center">
+    <p>
     <h1> Who Are We</h1> 
-    We are a Whatsapp support community for everyone affected by a bleeding disorder a community of    members,     supporters and healthcare professionals.
+    We are a Whatsapp support community for everyone affected by a bleeding disorder a community of    members,           supporters and healthcare professionals.
     </p>
     </div>
     
     <div align="center">
-     <p>
+    <p>
     <h1> What We Do</h1> 
-   We help people with bleeding disorders to lead fulfilling lives, make informed choices and to support and inspire   others.
+    We help people with bleeding disorders to lead fulfilling lives, make informed choices and to support and inspire     others.
     </p>
     </div>
     
