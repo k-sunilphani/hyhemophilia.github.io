@@ -5,4 +5,4 @@ permalink: /Registry/
 feature-img: img/sample_feature_img_3.png
 published: true
 ---
-<a href="https://docs.google.com/forms/d/1oU3MvMVqQSef6gi0QQptSpUD2kiQAMh0y1b10tWWLR0/edit?usp=sharing">Registry</a>  
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdthXFpdF0Av2yxT44NZxhtRRh7Ge5l4fkO1Tf86vkaVsYNGw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
