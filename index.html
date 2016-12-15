@@ -10,7 +10,8 @@ published: true
     {{ site.theme_settings.header_text }}
   </div>
   {% endif %}
-
+<a href="https://docs.google.com/forms/d/1oU3MvMVqQSef6gi0QQptSpUD2kiQAMh0y1b10tWWLR0/edit?usp=sharing">Click here to enroll in coagulation with hemophiliacs Registry</a>
+  
   <div class="posts">
     {% for post in paginator.posts %}
     <div class="post-teaser">
@@ -24,7 +25,7 @@ published: true
           {{ post.date | date: "%B %-d, %Y" }}
         </p>
       </header>
-      <a href="https://docs.google.com/forms/d/1oU3MvMVqQSef6gi0QQptSpUD2kiQAMh0y1b10tWWLR0/edit?usp=sharing">Registry</a>
+      
       <div class="excerpt">
         {{ post.excerpt }}
         <a class="button" href="{{ post.url | prepend: site.baseurl }}">
