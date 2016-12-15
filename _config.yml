@@ -26,7 +26,13 @@ theme_settings:
     </p>
     </div>
     
-    <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+    <div align="center">
+    <p>
+    <h1> What Is Our Goal</h1> 
+    to set up an online registry for hemophilia patients and establish online community of Coagulation between       Hemophilics to support each other for there wellbeing    .
+    </p>
+    </div>
+    
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
