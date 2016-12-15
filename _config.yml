@@ -12,11 +12,13 @@ theme_settings:
 
   # Header and footer text
   header_text: >
+     <div align="center">
      <p>
-     <h1> Who Are We</h1>
-     We are a Whatsapp support community for everyone affected by a bleeding disorder a community of    members,     supporters and healthcare professionals.</p>
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+    <h1> Who Are We</h1> 
+    We are a Whatsapp support community for everyone affected by a bleeding disorder a community of    members,    supporters and healthcare professionals.
+    </p>
+    </div>
+    <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
