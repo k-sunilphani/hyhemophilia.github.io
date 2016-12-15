@@ -1,3 +1,11 @@
+---
+layout: page
+title: Registry
+permalink: /Registry/
+feature-img: img/sample_feature_img_2.png
+published: true
+---
+
 ## Registry 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Sairam
