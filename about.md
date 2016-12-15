@@ -13,4 +13,3 @@ We help people with bleeding disorders to lead fulfilling lives, make informed c
 
 ## What Is Our Goal
 To set up an online registry for hemophilia patients and establish online community of Coagulation between Hemophilics to support each other for their wellbeing.
-
