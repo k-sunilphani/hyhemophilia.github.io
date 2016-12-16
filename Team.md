@@ -1,10 +1,10 @@
-## A New Post
+## Team
 
 
 
 **Siddhu**	  
-_WhatsApp Admin,
- Community Founder._
+_WhatsApp Admin_
+_Community Founder._
   
  **Sunil Phani**		  
 _community philosopher,
