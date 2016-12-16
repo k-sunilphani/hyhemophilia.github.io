@@ -1,6 +1,6 @@
 ## Team
 
-**Siddhu**	  
+**Sidhartha**	  
 WhatsApp Admin,
 Community Founder.
   
