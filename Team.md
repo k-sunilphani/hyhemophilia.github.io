@@ -1,3 +1,7 @@
+layout: page
+permalink: /about/
+feature-img: img/sample_feature_img_3.png
+
 ## Team
 
 
