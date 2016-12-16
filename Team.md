@@ -5,7 +5,21 @@
  
  
  
- **Siddhu** 		   **Sunil Phani**		  **Anil Phani**
-WhatsApp Admin        community philosopher   Web Developer 
-Community Founder     registry moderator      Techonolagy  mentor 
+ **Siddhu** 		  
+ WhatsApp Admin
+ Community Founder
+ 
+ 
 
+![]({{site.baseurl}}//ksp.jpg) 
+ 
+ **Sunil Phani**		  
+ community philosopher   
+ registry moderator      
+ 
+ 
+ ![]({{site.baseurl}}//kap.jpg)
+ 
+ **Anil Phani**
+ Web Developer 
+Techonolagy  mentor 
