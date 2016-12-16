@@ -1,17 +1,13 @@
-layout: page
-permalink: /about/
-feature-img: img/sample_feature_img_2.png
-
 ## Team
 
 **Siddhu**	  
-_WhatsApp Admin_
-_Community Founder._
+-_WhatsApp Admin_
+-_Community Founder_
   
  **Sunil Phani**		  
-_community philosopher,
- registry moderator._     
+-_community philosopher_
+-_registry moderator_     
   
  **Anil Phani**
- _Web Developer,
- Techonolagy  mentor._
+ -_Web Developer_
+ -_Techonolagy  mentor_
