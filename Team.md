@@ -1,13 +1,13 @@
 ## Team
 
 **Siddhu**	  
--_WhatsApp Admin_
--_Community Founder_
+WhatsApp Admin,
+Community Founder.
   
  **Sunil Phani**		  
--_community philosopher_
--_registry moderator_     
+Community Philosopher,
+Registry Moderator.     
   
  **Anil Phani**
- -_Web Developer_
- -_Techonolagy  mentor_
+ Web Developer,
+ Techonolagy Mentor.
