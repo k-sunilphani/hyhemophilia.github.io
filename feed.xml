@@ -21,10 +21,3 @@ published: true
     {% endfor %}
   </channel>
 </rss>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:idx="urn:atom-extension:indexing">
-<id>
-tag:google.com,2005:reader/user/10243664179118521507/state/com.google/alerts/12710954170695266714
-</id>
-<title>Google Alert - hemophilia cure</title>
-<link href="https://www.google.com/alerts/feeds/10243664179118521507/12710954170695266714" rel="self"/>
-</feed>
