@@ -35,9 +35,7 @@ theme_settings:
    
   header_text_feature_image:
   footer_text: >
-   Built by <a>Anil Phani</a> And <a>Sunil Phani</a>
-   <a>News</a>
-<p> sairam </p>
+   Built by <a>Anil Phani</a> And <a>Sunil Phani</a> <a>News</a>
   # Icons
   rss: false
   email_address: k.anilphani@gmail.com # Full email address, e.g. "sam@example.com"
