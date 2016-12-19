@@ -35,7 +35,8 @@ theme_settings:
    
   header_text_feature_image:
   footer_text: >
-   Built by <a>Anil Phani</a> And <a>Sunil Phani P</a>
+   Built by <a>Anil Phani</a> And <a>Sunil Phani</a>
+   <a>News</a>
 <p> sairam </p>
   # Icons
   rss: false
