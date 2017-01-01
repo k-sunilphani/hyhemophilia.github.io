@@ -38,8 +38,9 @@ theme_settings:
    
    <!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" data-fw-param="4441/"></script> <!-- end feedwind code -->
    
-               <a class="twitter-timeline"  href="https://twitter.com/hashtag/hematology" data-widget-id="815479670032338945">#hematology Tweets</a>
+                           <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/hashtag/hemophilia" data-widget-id="815480725809963010">#hemophilia Tweets</a>
             <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+          
           
    <div align="center"> <br> Built by <a>Anil Phani</a> And <a>Sunil Phani</a> </div>
     
