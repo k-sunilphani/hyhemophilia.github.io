@@ -34,8 +34,8 @@ theme_settings:
     </div>
    
   header_text_feature_image:
-  footer_text: > 
-   	<div align="center"> <br> Built by <a>Anil Phani</a> And <a>Sunil Phani</a> </div>    
+  footer_text: >
+   <div align="center"> <br> Built by <a>Anil Phani</a> And <a>Sunil Phani</a> </div>    
     
    
   # Icons
