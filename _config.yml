@@ -34,8 +34,8 @@ theme_settings:
     </div>
    
   header_text_feature_image:
-  footer_text: >
-    
+  footer_text: > 
+   <div align="center"> <br> Built by <a>Anil Phani</a> And <a>Sunil Phani</a> </div>    
 		<!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" data-fw-param="4441/"></script> <!-- end feedwind code -->
    <div align="center"> <br> Built by <a>Anil Phani</a> And <a>Sunil Phani</a> </div>   
    
